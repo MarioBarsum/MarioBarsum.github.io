@@ -16,10 +16,20 @@
  /*rubriker*/
 
 
-td{ background-color: rgb(185, 20, 20);
+  body { background-color: rgb(80, 109, 148)
+
+   
+  }
+
+
+td{ background-color: rgb(170, 158, 90);
     width: 300px;
     height: 200px;
-    border: 5px dotted rgb(2, 245, 245);
+    border: 5px inset rgb(0, 17, 255);
     margin: 30px;
     padding: 50px;
  }
+
+
+
+ 
