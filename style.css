@@ -5,7 +5,8 @@
 
 
  table, td {
-    border: 1px solid    rgb(25, 0, 255)
+    border: 1px solid    rgb(25, 0, 255);
+    margin: auto;
  }
 
  h1{
@@ -23,9 +24,9 @@
 
 
 
-  h1 { text-align: left
 
-  }
+
+  
 
 
   body {
