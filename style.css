@@ -22,7 +22,15 @@
    
   }
 
-
+ .fixed{
+    border-style:dashed; 
+    position: sticky;
+    width: 100%;
+    top: 0;
+    padding: 5px;
+    font-size: 10px;
+    
+ }
 
 
 
