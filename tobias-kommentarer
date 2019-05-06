@@ -1,0 +1,7 @@
+2019-05-06
+Relativt ren och snygg layout. Dock inte samma som i dina skisser/wireframes.
+Byt titel till något mer specifikt/passande.
+Du länkar till en javascript-fil som du inte använder. Placera dina script där istället för i html-koden.
+Du kan ta bort Lorem ipsum-texten.
+Fyll i texter för alt-attributen till bilderna.
+Se till att ha samma indrag för dina divar.
